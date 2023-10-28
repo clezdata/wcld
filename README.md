@@ -6,7 +6,7 @@ Machine learning based decision-support tools in criminal justice systems are su
 ## Citing this work
 ```
 @article{ash2023wcld,
-      title={LWCLD: Curated Large Dataset of Criminal Cases from Wisconsin Circuit Courts}, 
+      title={WCLD: Curated Large Dataset of Criminal Cases from Wisconsin Circuit Courts}, 
       author={Elliott Ash and Naman Goel and Nianyun Li and Claudia Marangon and Peiyao Sun},
       booktitle={37th Conference on Neural Information Processing Systems (NeurIPS 2023) Track on Datasets and Benchmarks.},
       year={2023}
